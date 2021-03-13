@@ -5,4 +5,3 @@
     - name: Pull image of working project from dockerhub
       docker_image:
         name: krshanu13/mini_project
-        source: pull
