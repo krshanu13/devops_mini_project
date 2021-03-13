@@ -1,2 +1,2 @@
 [virtual]
-10.139.104.6 ansible_user=shanu ansible_python_interpreter=/usr/bin/python3
+10.137.160.11 ansible_user=jain1
