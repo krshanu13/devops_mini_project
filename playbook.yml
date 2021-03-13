@@ -4,4 +4,4 @@
   tasks:
     - name: Pull image of working project from dockerhub
       docker_image:
-        name: krshnau13/mini_project
+        name: krshnau13/devops_calculator
